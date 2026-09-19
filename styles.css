@@ -138,6 +138,28 @@ body{
     padding: 14px;
     margin-top: 25px;
 }
+#project-list {
+  list-style: none;
+  padding: 0;
+}
+
+#project-list li {
+  background-color: #f4f6f9;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+#search {
+  padding: 10px 14px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 10px;
+}
+
 
 @media (max-width: 600px) {
     .header{
