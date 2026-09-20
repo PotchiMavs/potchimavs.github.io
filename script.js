@@ -6,7 +6,7 @@ const projects = [
   { title: 'Password Checker', desc: 'Checks if a password is strong enough.', tags: 'Security' },
   { title: 'Notes App', desc: 'A simple app to save and delete notes.', tags: 'JavaScript' }
 ]
-
+                                          
 const searchEl = document.querySelector('#search')
 const listEl = document.querySelector('#project-list')
 const countEl = document.querySelector('#count')
